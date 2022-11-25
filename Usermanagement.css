@@ -1,0 +1,110 @@
+* {
+margin: 0;
+padding:0;
+}
+
+.container{
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url("images/Login-background.png");
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+.form-box{
+  width: 400px;
+   height: 450px;
+  position: relative;
+  margin-top:50px;
+ margin-left:450px;
+
+  background: #eaddce;
+  opacity: 0.8;
+  padding: 5px;
+  border-radius: 2%;
+  box-shadow: 0 0 400px 10px #614729;
+}
+.avtar{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  top: -35px;
+  position: absolute;
+  left: 120px;
+  filter: invert(15%) sepia(8%) saturate(1171%) hue-rotate(314deg) brightness(101%) contrast(87%);
+}
+.form-box h2{
+  height: auto;
+  width: auto;
+  margin-top: 50px;
+  margin-left: auto;
+  text-align: center;
+  font-size: 36px;
+  color: #3B2F2F;
+  cursor: default;
+}
+.input-field{
+  width: 200px;
+  position: relative;
+  margin-top: 20px;
+  background: transparent;
+  padding: 8px 0;
+  border-radius: 2%;
+  opacity: none;
+  border-bottom: 1px solid #999;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  outline: none;
+  margin-left: 100px;
+  margin-bottom: 10px;
+  text-align: justify;
+}
+select{
+  height: auto;
+  width: auto;
+  margin-top:  40px;
+  margin-left: 95px;
+  font-size: 16px;
+  border: none;
+  padding: 10px 20px;
+  border-radius:10px;
+}
+.sumbit{
+  height: auto;
+  width: auto;
+  margin-top:  40px;
+  margin-left: 150px;
+  font-size: 16px;
+  border: 10px black;
+  display: block;
+  outline: none;
+  padding: 10px 20px;
+  border-radius:30px;
+  cursor: pointer;
+}
+.sumbit:hover,.sumbit1:hover{
+  background-color: gray;
+  color: #332515;
+  transition: all 0.5s ease;
+}
+.sumbit1{
+  height: auto;
+  width: auto;
+  margin-left: 92%;
+  margin-top: 1%;
+  font-size: 16px;
+  display: block;
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  border-radius:30px;
+  cursor: pointer;
+}
+a {
+       text-decoration: none;
+}
+select:hover{
+  background-color: #CDCDCD;
+  transition: all 0.5s ease;
+}
