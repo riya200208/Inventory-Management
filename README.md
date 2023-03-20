@@ -102,6 +102,15 @@ B. Analysis of each function:
  •Output of modules:
 -The number of bills, money, the bills have been cancelled, the item have been return in the day so far.
 -The sales-trend graph for each item.
+
+
+Some pictures of the project:
+
+
+
+
+
+
 ![screencapture-localhost-8082-Inventory-generateBill-jsp-2022-11-25-02_59_36](https://user-images.githubusercontent.com/86815103/204129054-e27afe80-d9f9-41e5-a905-bab238d328a7.png)
 ![screencapture-localhost-8082-Inventory-bill-jsp-2022-11-25-02_58_37](https://user-images.githubusercontent.com/86815103/204129058-1a1b9e74-d93b-4699-ac33-8bbb96267fa3.png)
 ![screencapture-localhost-8082-Inventory-salesman-jsp-2022-11-25-02_57_39](https://user-images.githubusercontent.com/86815103/204129061-bd4fc5f6-a74e-4de2-b698-f42fc5cd6de6.png)
