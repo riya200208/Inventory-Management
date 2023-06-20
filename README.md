@@ -9,6 +9,8 @@ To ensure that solve difficult problems by making system should have the followi
 2. Salesmen Functionalities.
 3.    Inventory Manager Functionalities.
 4.    Sales Manager Functionalities.
+
+
 B. Analysis of each function:
 1. Administration Functionalities:
 -Login to the System and change his password after login. 
